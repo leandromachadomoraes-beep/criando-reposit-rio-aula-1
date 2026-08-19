@@ -1,6 +1,6 @@
 body{
-  background-color: seashell;
-  color: maroon;
+  background-color: #F60F0F
+  color: #85D121
   display: flex;
   flex-direction: column;
   align-items: center;
