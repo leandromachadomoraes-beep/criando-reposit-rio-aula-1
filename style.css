@@ -1,11 +1,11 @@
 body{
   background-color: #F60F0F
-  color: #85D121
-  display: flex;
+  color #85D121
+  display flex;
   flex-direction: column;
-  align-items: center;
-  margin:50px
-}
+  align-itemscenter
+  margin
+
 h1{
   font-size: 40px;
   text-align: center;
@@ -40,4 +40,5 @@ button {
   position: fixed;
   right: 10px;
   top: 50px
+}
 }
